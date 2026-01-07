@@ -6,7 +6,7 @@ This site showcases my skills, projects, and passion for building beautiful, use
 ---
 
 ## 🚀 Live Preview  
-👉 Add your live link here (GitHub Pages / Netlify)
+https://shavishathiloshini.github.io/portfolio-website/
 
 ---
 
@@ -42,15 +42,15 @@ I enjoy turning ideas into visually appealing and functional digital experiences
 1. **Portfolio Website** – Personal branding site  
 2. **Online Grocery Landing Page** – E-commerce landing UI  
 3. **To-Do App** – JavaScript task manager with LocalStorage  
-4. **HabitBloom 🌸** – Cute & motivational habit tracker  
+4. **Habity 🌸** – Cute & motivational habit tracker  
 
 ---
 
 ## 📬 Contact
 
-- **Email:** shaathivya16@gmail.com  
+- **Email:** shavishathiloshini16@gmail.com  
 - **LinkedIn:** https://linkedin.com/in/shavisha-thiloshini-16062b3a3  
-- **GitHub:** https://github.com/ShavishaThiloshini  
+- **GitHub:**   https://github.com/ShavishaThiloshini/portfolio-website
 
 ---
 
